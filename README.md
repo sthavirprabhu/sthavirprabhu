@@ -22,8 +22,8 @@ I'm constantly learning and exploring new things—especially in the worlds of:
 ## 📫 Let's Connect
 Feel free to connect with me or check out my projects and passions!
 
-- 📷 [My Car Channel](#) *https://www.youtube.com/@BayerischeMotorenWerkeEditz/shorts*
-- 💼 [LinkedIn](#) *https://www.linkedin.com/in/sthavir-prabhu-85847a363/*
-- 📧 Email me at: *sthavirprabhu@gmail.com*
+- 📷 [My Car Channel](#) *[https://www.youtube.com/@BayerischeMotorenWerkeEditz/shorts]*
+- 💼 [LinkedIn](#) *[https://www.linkedin.com/in/sthavir-prabhu-85847a363/]*
+- 📧 Email me at: *[sthavirprabhu@gmail.com]*
 
 Thanks for stopping by! 😊
