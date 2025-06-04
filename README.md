@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate communicator, developer, and car 
 
 - 🎤 **Gavelier & EXCOM Member** at Toastmasters International  
 - 🏆 **Distinction Holder** in Grade 5 Trinity Communication Exam  
-- 🌐 **Model United Nations** delegate (4 MUNs and counting!)  
+- 🌐 **Model United Nations** delegate 
 - 🚗 **Car Enthusiast** with my own YouTube channel  
 - 💻 **Frontend Developer** who loves building with:
   - React Native  
